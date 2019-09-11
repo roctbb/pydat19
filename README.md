@@ -20,7 +20,7 @@
   <td>Введение в Python. Знакомство с интерфейсом Jupyter Notebook. Язык разметки Markdown. Переменные в Python. Типы переменных в Python. Ввод и вывод в Python.</td>
   <td></td>
   <td><ul>
-    <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw2.ipynb">ДЗ1</a></li>
+    <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw1.ipynb">ДЗ1</a></li>
     <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw2.ipynb">ДЗ2</a></li>
     <li><a href="https://www.dropbox.com/request/clMIYpZb11kwkTg9rDjE">Ссылка для сдачи</a>
     </ul></td>
