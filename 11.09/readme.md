@@ -1,6 +1,6 @@
 # 11-04
 
-* Работа с Jupyter, Markdown.
+* [Работа с Jupyter, Markdown](https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/11.09/intro-jupyter.ipynb).
 * Переменные, базовые типы данных, арифметические операции.
 * Ввод и вывод.
 
