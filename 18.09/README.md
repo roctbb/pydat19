@@ -1,9 +1,9 @@
-# 18-04
+# 18-09
 
-* списки и цикл for: [lecture-lists](https://nbviewer.jupyter.org/github/allatambov/pydat19-ap/blob/master/18-04/lecture-lists.ipynb)
+* списки и цикл for: [lecture-lists](https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/18.09/lecture-lists.ipynb)
 * методы split() и join() для строк: [lecture-split-join](https://nbviewer.jupyter.org/github/allatambov/pydat19-ap/blob/master/18-04/lecture-split-join.ipynb)
-* кортежи и словари: [lecture-tuples-dicts](https://nbviewer.jupyter.org/github/allatambov/pydat19-ap/blob/master/18-04/lecture-tuples-dicts.ipynb)
-* множества: [lecture-sets](https://github.com/allatambov/pydat19-ap/blob/master/18-04/lecture-sets.ipynb)
+* кортежи и словари: [lecture-tuples-dicts](https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/18.09/lecture-tuples-dicts.ipynb)
+* множества: [lecture-sets](https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/18.09/lecture-sets.ipynb)
 
 Дополнительно:
 
