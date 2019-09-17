@@ -28,8 +28,11 @@
   <tr>
   <td>18.09</td>
   <td>Хранение данных в Python. Списки, кортежи, словари. Цикл for.</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://github.com/roctbb/pydat19/tree/master/18.09">Папка 18.09</a></td>
+  <td>
+    <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw3.ipynb">ДЗ3</a></li>
+    <li><a href="https://www.dropbox.com/request/wiL51nEEojzew5IkgdWj">Ссылка для сдачи</a>
+  </td>
 </tr>
   <tr>
   <td>25.09</td>
