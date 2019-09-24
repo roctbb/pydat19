@@ -37,8 +37,9 @@
   <tr>
   <td>25.09</td>
   <td>Условные конструкции в Python.</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://github.com/roctbb/pydat19/tree/master/25.09">Папка 25.09</a></td>
+  <td><li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw4.ipynb">ДЗ3</a></li>
+    <li><a href="https://www.dropbox.com/request/Pn4bhQGxnLbvhmlBMAfu">Ссылка для сдачи</a></td>
 </tr>
 <tr>
   <td>2.10</td>
