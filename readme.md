@@ -45,7 +45,9 @@
 <tr>
   <td>2.10</td>
   <td>Функции в Python. Исключения. Отладка кода.</td>
-  <td><a href="https://github.com/roctbb/pydat19/tree/master/02.10">Папка 02.10</a></td>
+  <td><a href="https://github.com/roctbb/pydat19/tree/master/02.10">Папка 02.10</a><br><br>
+  <a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/02.10/practice-functions.ipynb">Практика</a>
+  </td>
   <td>
   <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw5.ipynb">ДЗ5</a></li>
     <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw6.ipynb">ДЗ6</a></li>
