@@ -45,8 +45,12 @@
 <tr>
   <td>2.10</td>
   <td>Функции в Python. Исключения. Отладка кода.</td>
-  <td></td>
-  <td></td>
+  <td><a href="https://github.com/roctbb/pydat19/tree/master/02.10">Папка 02.10</a></td>
+  <td>
+  <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw5.ipynb">ДЗ5</a></li>
+    <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw6.ipynb">ДЗ6</a></li>
+    <li><a href="https://www.dropbox.com/request/Kr43nYmELJZpSc51OmS0">Ссылка для сдачи</a></li>
+  </td>
 </tr>
 <tr>
   <td>9.10</td>
