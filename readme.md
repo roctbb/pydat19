@@ -56,7 +56,7 @@
 <tr>
   <td>9.10</td>
   <td>Работа с файлами в Python: доступ, редактирование, запись. Разнообразие форматов хранения данных: текстовые файлы, таблицы, json, базы данных.</td>
-  <td><li><a href="https://github.com/roctbb/pydat19/blob/master/09.10/tasks.md">Практика</a></li><li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/09.10/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B.ipynb">Конспект</a></td>
+  <td><a href="https://github.com/roctbb/pydat19/blob/master/09.10/tasks.md">Практика</a><br><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/09.10/%D0%A4%D0%B0%D0%B9%D0%BB%D1%8B.ipynb">Конспект</a></td>
   <td>  <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw5.ipynb">ДЗ5 (общее повторение)</a></li>
   <li><a href="https://www.dropbox.com/request/Kr43nYmELJZpSc51OmS0">Ссылка для сдачи</a></li></td>
 </tr>
