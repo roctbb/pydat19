@@ -60,4 +60,11 @@
   <td>  <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw5.ipynb">ДЗ5 (общее повторение)</a></li>
   <li><a href="https://www.dropbox.com/request/Kr43nYmELJZpSc51OmS0">Ссылка для сдачи</a></li></td>
 </tr>
+  <tr>
+  <td>9.10</td>
+  <td>Работа с файлами в Python: доступ, редактирование, запись. Разнообразие форматов хранения данных: текстовые файлы, таблицы, json, базы данных.</td>
+  <td><a href="https://github.com/roctbb/pydat19/tree/master/16.10">Папка 16.10</a></td>
+  <td>  <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw7.ipynb">ДЗ7</a></li>
+  <li><a href="https://www.dropbox.com/request/oHP2sXYWpcE6pk5s8CFf">Ссылка для сдачи</a></li></td>
+</tr>
 </table>
