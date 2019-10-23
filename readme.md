@@ -67,4 +67,11 @@
   <td>  <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw7.ipynb">ДЗ7</a></li>
   <li><a href="https://www.dropbox.com/request/oHP2sXYWpcE6pk5s8CFf">Ссылка для сдачи</a></li></td>
 </tr>
+ <tr>
+  <td>23.10</td>
+  <td>Работа с таблицами. Основной функционал библиотеки pandas.</td>
+  <td><a href="https://github.com/roctbb/pydat19/tree/master/23.10">Папка 23.10</a></td>
+  <td>  <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw8.ipynb">ДЗ8</a></li>
+  <li><a href="https://www.dropbox.com/request/HjOrBbBYDYLHTn5vPH4t">Ссылка для сдачи</a></li></td>
+</tr>
 </table>
