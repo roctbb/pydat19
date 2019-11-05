@@ -80,4 +80,11 @@
   <td><a href="https://github.com/roctbb/pydat19/tree/master/30.10">Папка 30.10</a></td>
   <td></td>
 </tr>
+<tr>
+  <td>06.11</td>
+  <td>Web-scraping в Python. Работа с html-файлами средствами requests и BeautifulSoup.</td>
+  <td><a href="https://github.com/roctbb/pydat19/tree/master/06.11">Папка 06.11</a></td>
+  <td>  <li><a href="https://nbviewer.jupyter.org/github/roctbb/pydat19/blob/master/Homework/py19-hw9.ipynb">ДЗ9</a></li>
+  <li><a href="https://www.dropbox.com/request/7CSXqbQYwTaEM6tgVIKs">Ссылка для сдачи</a></li></td>
+</tr>
 </table>
